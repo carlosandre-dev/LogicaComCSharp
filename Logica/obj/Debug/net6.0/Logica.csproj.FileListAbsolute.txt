@@ -1,0 +1,15 @@
+C:\Projetos\Formacao-CSharp\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\Projetos\Formacao-CSharp\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Formacao-CSharp\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\Projetos\Formacao-CSharp\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\Projetos\Formacao-CSharp\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\Projetos\Formacao-CSharp\Logica\bin\Debug\net6.0\Logica.exe
+C:\Projetos\Formacao-CSharp\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\Projetos\Formacao-CSharp\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+C:\Projetos\Formacao-CSharp\Logica\bin\Debug\net6.0\Logica.dll
+C:\Projetos\Formacao-CSharp\Logica\bin\Debug\net6.0\Logica.pdb
+C:\Projetos\Formacao-CSharp\Logica\obj\Debug\net6.0\Logica.dll
+C:\Projetos\Formacao-CSharp\Logica\obj\Debug\net6.0\refint\Logica.dll
+C:\Projetos\Formacao-CSharp\Logica\obj\Debug\net6.0\Logica.pdb
+C:\Projetos\Formacao-CSharp\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+C:\Projetos\Formacao-CSharp\Logica\obj\Debug\net6.0\ref\Logica.dll
